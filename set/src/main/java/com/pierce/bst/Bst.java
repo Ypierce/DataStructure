@@ -5,9 +5,6 @@ public class Bst {
 
         System.out.print("testOne");
         System.out.print("testTwe");
-
-
-
     }
 
 }
