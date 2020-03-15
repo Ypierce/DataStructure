@@ -13,6 +13,7 @@
         <module>linkedlist</module>
         <module>leetcode</module>
         <module>bst</module>
+        <module>set</module>
     </modules>
 
 

@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="bst" />
+        <module name="set" />
         <module name="leetcode" />
         <module name="linkedlist" />
         <module name="array" />
